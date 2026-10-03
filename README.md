@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="MDNav: All your Markdown, in one tree." width="100%">
+</p>
+
 # MDNav
 
-**All your Markdown, in one tree.** Browse folders of Markdown files, read them rendered with one click, and open any of them in Warp with a double click.
+**All your Markdown, in one tree.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+Browse folders of Markdown files, read them rendered with one click, and open any of them in Warp with a double click.
 
 Free, for a Mac with Apple silicon, macOS 12 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
